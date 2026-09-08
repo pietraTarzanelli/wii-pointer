@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Name": "Wii Cursor Monitor",
+        "Description": "Changes the Wii cursor theme according to the physical display",
+        "Id": "wii-cursor-monitor",
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
